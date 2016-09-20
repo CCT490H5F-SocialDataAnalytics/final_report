@@ -31,7 +31,7 @@ The report should have four sections. First should be the *Executive Summary*. I
 ## Timeline
 
 - Sep 22 - Project declaration (5%)
-    - The first deadline is the project declaration. You need to notify me which project you plan to do. 
+    - The first deadline is the project declaration. You need to notify me which project you plan to do. This can be submitted as a Word document.
 - Oct 20 - Project prospectus (10%)
     - The project prospectus outlines what you plan to do on this project. You will need to make decisions for each of these: for the Canadian Tire project you will choose the months you will focus on; for the Stats Can project, you need to decide on which health outcomes you would like to study; and for the political consultant project, you need to decide on which parties you will analyze. For the prospectus, you will have begun looking at the data for the project, and begun to engage in tentative analysis. Your final report will build directly from the prospectus, so you should start it in a Jupyter Notebook and build from there.
 - Nov 17 - Midterm report
