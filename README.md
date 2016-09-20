@@ -20,7 +20,7 @@ You will have the choice of three projects, which I am associating with specific
     - *Background*: You are a political consultant for a minor political party. You are interested in understanding which provinces and areas you could potentially pick up parliamentary seats. Based on areas of your strength, you may adjust your party platform to match the electoral profile of particular areas. You plan to do this by comparing areas of strength for *two parties* of your choice. One of them should be a major party (Liberal, NDP, Conservative), and the other should be one of the rest. Your report will report which provinces and areas in which each party seemed to have more strength. You will also compare rural areas to urban areas.  
     - *Data*: You will be using the voting totals from each of the 75,413 polling stations across the country, which can be grouped into ridings (Electoral District Number). Each polling station has vote totals for all parties which fielded a candidate in that riding. Each polling station is also divided into either urban or rural. These data will be posted within the week.
 
-<! -- You can get the data [here](data/election-ca-2015.csv). The data are originally from [http://open.canada.ca/data/en/dataset/6a919bd5-491e-466e-a279-00cbf7a8e02c](Open Canada) and have undergone slight modifications. -->
+<!-- You can get the data [here](data/election-ca-2015.csv). The data are originally from [http://open.canada.ca/data/en/dataset/6a919bd5-491e-466e-a279-00cbf7a8e02c](Open Canada) and have undergone slight modifications. -->
 
 ## Report Requirements
 
